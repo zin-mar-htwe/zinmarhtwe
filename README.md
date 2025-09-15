@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Zin Mar Htwe
 
 🎓 Currently pursuing Master of Applied Computing at University of Windsor, Windsor, Ontario
-💼 16+ years of IT experience | PMP®, PMI-ACP®, CSM®, ITIL certified 
+💼 PMP®, PMI-ACP®, CSM®, ITIL certified 
 👩‍💻 Assistant Project Manager at CrimsonLogic | Former Software Engineer in Singapore  
 🌍 Passionate about delivering value through Traditional and Agile project leadership 
 
